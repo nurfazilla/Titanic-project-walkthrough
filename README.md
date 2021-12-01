@@ -7,6 +7,7 @@ Keep in mind that the working with real-world data is not as easy as we see it h
 For ease of reference, I published two articles to walkthrough and explain the steps. You may check it out here:
 
 Part I: https://www.linkedin.com/pulse/titanic-project-walkthrough-part-12-nurfazilla-rahim/
+
 Part II: https://www.linkedin.com/pulse/titanic-project-walkthrough-part-22-nurfazilla-rahim/
 
 I appreciate your comments on any improvement.
